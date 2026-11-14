@@ -19,3 +19,10 @@ Designed by [Mitfart](https://github.com/Mitfart) as an independent, abstract we
 - `fonts/` — available font files, where provided with the project materials.
 
 [Русский](README.md)
+
+## Original image filenames
+
+- `assets/asset-1.png` — `Дрон.png`
+- `assets/asset-2.jpg` — `Пример - дрон 1.jpg`
+- `assets/asset-3.jpg` — `Пример - дрон 2.jpg`
+- `assets/asset-4.jpg` — `Пример - дрон 3.jpg`

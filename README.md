@@ -19,3 +19,10 @@
 - `fonts/` — доступные файлы шрифтов, если они были в материалах проекта.
 
 [English](README_EN.md)
+
+## Исходные имена изображений
+
+- `assets/asset-1.png` — `Дрон.png`
+- `assets/asset-2.jpg` — `Пример - дрон 1.jpg`
+- `assets/asset-3.jpg` — `Пример - дрон 2.jpg`
+- `assets/asset-4.jpg` — `Пример - дрон 3.jpg`
